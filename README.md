@@ -1,4 +1,4 @@
- Sahi-store-sale-quartly-report-2023
+ Sahi-store-sale-quarterly-report-2023
 Sahi store wants to create an Quartly sales reports for 2023,so that, shahi can understand their customers and grow more sales in next quartly of 2023 using MS Excel.
 SAMPLE INSIGHTS 1) Women are more likely to buy compared to men(70%).
 Top 3 states (35%) are Maharastra, Karnataka and UP.
